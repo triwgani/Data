@@ -1,6 +1,11 @@
 # Data Analysis Portfolios
 Portfolio of my data analysis projects for course assignment and personal purposes.
 
+# Tata Virtual Case Experience
+This Virtual Experience case is held by Tata. In this virtual experience programme, I am being put in the point of view of a data visualization analyst at Tata iQ, a division of Tata Limited Industries that provides analytics and solutions, to address various stakeholders needs. The expectation is set to understand the stakeholders objectives and translate those into apt and intuitive dashboard or visualizations. The visualization is aimed to bring impact by delivering insights that might be applicable to empower business.
+
+[Read more](https://triwgani.github.io/Tata.DataVisualization/)
+
 ## PwC Switzerland Virtual Case Experience
 
 This virtual Experience is held by PwC (PricewaterhouseCoopers) Switzerland. In this virtual experience case, I am given some tasks to simulate a condition in which I work together in a team to help client solve their problems by using technology. Power BI is used in the experience case to clean, wrangle, and visualize data so that client can better understand their customers and employees.
