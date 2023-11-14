@@ -1,6 +1,11 @@
 # Data Analysis Portfolios
 Portfolio of my data analysis projects for course assignment and personal purposes.
 
+## Maven Market Project - Analyzing Data of a Grocery Chain Firm
+This Project Case is part of the Microsoft Power BI Desktop for Business Intelligence Course on [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) online platform by Maven Analytics. In this case, I worked with data from **Maven Market**, a multi-national grocery chain with locations in **Canada, Mexico** and the **United States**.
+
+[Read more](https://triwgani.github.io/Maven02/)
+
 ## Tata Virtual Case Experience
 This Virtual Experience case is held by Tata. In this virtual experience programme, I am being put in the point of view of a data visualization analyst at Tata iQ, a division of Tata Limited Industries that provides analytics and solutions, to address various stakeholders needs. The expectation is set to understand the stakeholders objectives and translate those into apt and intuitive dashboard or visualizations. The visualization is aimed to bring impact by delivering insights that might be applicable to empower business.
 
