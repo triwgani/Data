@@ -18,6 +18,9 @@ This Project Case is part of the Microsoft Power BI Desktop for Business Intelli
 [Read more](https://triwgani.github.io/Maven02/)
 
 ## Tata Virtual Case Experience
+
+![](PreviewTata.png)
+
 This Virtual Experience case is held by Tata. In this virtual experience programme, I am being put in the point of view of a data visualization analyst at Tata iQ, a division of Tata Limited Industries that provides analytics and solutions, to address various stakeholders needs. The expectation is set to understand the stakeholders objectives and translate those into apt and intuitive dashboard or visualizations. The visualization is aimed to bring impact by delivering insights that might be applicable to empower business.
 
 [Read more](https://triwgani.github.io/Tata.DataVisualization/)
