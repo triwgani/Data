@@ -35,6 +35,8 @@ This virtual Experience is held by PwC (PricewaterhouseCoopers) Switzerland. In 
 
 ## Analyzing Data with Python
 
+![](PythonPreview.png)
+
 In today’s digital era, e-commerce has become a thriving industry, generating vast amounts of data that hold valuable insights for businesses. To unlock the potential of this data and gain a competitive edge, organizations are turning to Python, a powerful programming language with extensive data analysis capabilities.
 
 [Read more](https://triwgani.github.io/ADWP/)
