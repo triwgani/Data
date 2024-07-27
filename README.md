@@ -50,5 +50,3 @@ The analysis performs initial investigation on data and utilizes them to answer 
 
 The analysis explores the transaction data from an E-Commerce firm. The analysis reveals its ability to drive business growth and impact on decision-making processes such as how to determine the sales and marketing strategies. This work is also part of the project in MySkill Data Analysis Bootcamp.
 **[Read more](https://triwgani.github.io/Sales_Transaction/)**
-
-![](SavingAs.mp4)
